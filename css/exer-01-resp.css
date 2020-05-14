@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.container{
+  display: flex;
+  flex-flow: row;
+  margin: 5%;
+}
+
+.box-1{
+  flex-basis: 50%;
+
+}
+
+
+.box-1{
+  border: 3px solid #3e33d7;
+  width: 50vw;
+  height: 50vh;
+}

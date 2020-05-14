@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+
+@media all and (min-width: 900px) {
+  .principal{ flex: 3 0px;}
+  .lateral-1{ order: 1;}
+  .principal{ order: 2;}
+  .lateral-2{ order: 3;}
+  .rodape{ order:4;}
+}

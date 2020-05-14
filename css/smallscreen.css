@@ -1,0 +1,5 @@
+@charset "UTF-8";
+
+@media all and (max-width: 600px) {
+  .lateral{ flex: 1 0 0;}
+}
